@@ -1,0 +1,187 @@
+/* screen - menu */
+
+.menu {
+  align-items: center;
+  background-color: var(--woodsmoke);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  padding: 22px 0;
+  width: 375px;
+}
+
+.menu .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: 0;
+  min-width: 327px;
+}
+
+.menu .logo-1 {
+  height: 48px;
+  width: 136px;
+}
+
+.menu .frame-61 {
+  display: flex;
+  margin-left: 101px;
+  width: 90px;
+}
+
+.menu .frame-38 {
+  cursor: pointer;
+  height: 40px;
+  width: 40px;
+}
+
+.menu .icon-close {
+  cursor: pointer;
+  height: 40px;
+  margin-left: 10px;
+  width: 40px;
+}
+
+.menu .frame-7 {
+  display: flex;
+  margin-top: 22px;
+  width: 327px;
+}
+
+.menu .frame-62 {
+  display: flex;
+  width: 250px;
+}
+
+.menu .frame-3 {
+  background-color: var(--mine-shaft);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  height: 44px;
+  width: 123px;
+}
+
+.menu .tvl {
+  height: 14px;
+  letter-spacing: 0;
+  margin-left: 48.5px;
+  margin-top: 6px;
+  width: 26px;
+}
+
+.menu .price {
+  height: 16px;
+  letter-spacing: 0;
+  margin-left: 17px;
+  margin-top: 2px;
+  width: 89px;
+}
+
+.menu .frame-4 {
+  background-color: var(--mine-shaft);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  height: 44px;
+  margin-left: 4px;
+  width: 123px;
+}
+
+.menu .mcap {
+  height: 14px;
+  letter-spacing: 0;
+  margin-left: 43px;
+  margin-top: 6px;
+  width: 37px;
+}
+
+.menu .price-1 {
+  height: 16px;
+  letter-spacing: 0;
+  margin-left: 21px;
+  margin-top: 2px;
+  width: 81px;
+}
+
+.menu .frame-5 {
+  background-color: var(--mine-shaft);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  height: 44px;
+  margin-left: 4px;
+  width: 73px;
+}
+
+.menu .price-2 {
+  height: 14px;
+  letter-spacing: 0;
+  margin-left: 18px;
+  margin-top: 6px;
+  width: 37px;
+}
+
+.menu .price-3 {
+  height: 16px;
+  letter-spacing: 0;
+  margin-left: 18px;
+  margin-top: 2px;
+  width: 37px;
+}
+
+.menu .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 153px;
+  min-height: 56px;
+  min-width: 133px;
+}
+
+.menu .rectangle-12 {
+  background-color: var(--orange-red);
+  height: 3px;
+  margin-left: 1.0px;
+  margin-top: 6px;
+  width: 132px;
+}
+
+.menu .roadmap {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 23px;
+  min-height: 56px;
+  min-width: 216px;
+}
+
+.menu .nft {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 32px;
+  min-height: 56px;
+  min-width: 94px;
+}
+
+.menu .footermenu_mob {
+  display: flex;
+  flex-direction: column;
+  height: 72px;
+  margin-left: 1.0px;
+  margin-top: 188px;
+  width: 202px;
+}
+
+.menu .frame-22 {
+  height: 24px;
+  margin-left: 53px;
+  width: 96px;
+}
+
+.menu .copyright {
+  height: 16px;
+  letter-spacing: 0;
+  margin-top: 32px;
+  text-align: right;
+}
