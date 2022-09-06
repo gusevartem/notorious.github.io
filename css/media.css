@@ -1,0 +1,828 @@
+@media (max-width: 1290px) {
+    .header_img {
+        padding-left: 0;
+    }
+    .header_wrapp_img {
+        width: auto;
+        height: auto;
+        padding-top: 600px;
+        padding-left: 131px;
+    }
+    .header_wrapp_img_text {
+        padding-left: 159px;
+    }
+    .header_wrapp_centr {
+        left: 0;
+    }
+    .section_1 {
+        flex-wrap: nowrap;
+    }
+    .section_1_hum_blu_img {
+        max-width: 360px;
+    }
+    .section_1_info_text_1 {
+        padding-top: 56px;
+        line-height: 38px;
+    }
+    .section_1_info_text_2 {
+        height: auto;
+        padding-top: 13%;
+    }
+    .section_2-roadmap {
+        display: none
+    }
+    .section_2_stage {
+        display: none;
+    }
+    .section_2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-image: url('/img/svg/road-map-line.svg');
+        background-repeat: no-repeat;
+        background-position: 14% 205px;
+    }
+    .roadmap_text,
+    .section_2_stage_1_title,
+    .section_2_stage_1_text,
+    .section_2_stage_wrap_text {
+        position: static;
+        text-align: start;
+    }
+    .roadmap_text{
+        margin-bottom: 45px;
+    }
+    .section_2_stage_1_title {
+        padding-bottom: 19px;
+    }
+    .section_2_stage_1_text {
+        padding-bottom: 16px;
+    }
+    .finance {
+        margin-bottom: 430px;
+        justify-content: center;
+    }
+    .finance_img_blu,
+    .finance_img_red {
+        max-width: 20%;
+        padding: 0;
+    }
+    .finance_info {
+        top: 103%;
+        left: 4%;
+    }
+    .wrapp_4 {
+        margin-left: 0;
+    }
+    .nation_pass {
+        grid-template-columns: auto;
+    }
+    .NFT_design_wrapp {
+        width: auto;
+    }
+    .NFT_design_pick {
+        position: static;
+    }
+    .NFT_design_info_title_bot {
+        margin-bottom: 30px;
+    }
+    .twitt_icon {
+        width: 100%;
+        flex-wrap: nowrap;
+    }
+    .twitt_icon_text {
+        max-width: 28%;
+        margin-right: 15px;
+    }
+    .twitt_red {
+        width: 40%;
+    }
+    .twitt_blu_red {
+        right: -75%;
+    }
+}
+
+@media (max-width: 768px) {
+    .header_wrapp_img {
+        padding-left: 0;
+    }
+    .header_wrapp_img_text {
+        padding-left: 0;
+    }
+    .header_wrapp_centr {
+        left: -22%;
+    }
+    .section_1_hum_blu_img {
+        max-width: 292px;
+    }
+    .section_1 {
+        flex-wrap: nowrap;
+    }
+    .section_1_info {
+        padding-left: 0;
+    }
+
+    .section_1_info_text_1 {
+        padding-top: 49px;
+    }
+    .section_1_info_text_2 {
+        padding-top: 0;
+    }
+    .section_2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-image: url('/img/svg/road-map-line.svg');
+        background-repeat: no-repeat;
+        background-position: 14% 81%;
+
+    }
+    .roadmap_text {
+        max-width: 50%;
+        margin-bottom: 45px;
+    }
+    .section_2-roadmap {
+        display: none
+    }
+    .section_2_stage {
+        display: none;
+    }
+    .roadmap_text,
+    .section_2_stage_1_title,
+    .section_2_stage_1_text,
+    .section_2_stage_wrap_text {
+        position: static;
+        text-align: start;
+    }
+    .section_2_stage_1_title {
+        padding-bottom: 19px;
+    }
+    .section_2_stage_1_text {
+        padding-bottom: 16px;
+    }
+    .finance_info {
+        width: auto;
+    }
+    .finance_info_text_1 {
+        margin-bottom: 20px;
+    }
+    .tablo,
+    .tablo_info_lini,
+    .tablo_info_lini_2 {
+        width: auto;
+    }
+    .NTF_text {
+        width: auto;
+    }
+    .twitt_icon {
+        width: auto;
+        flex-wrap: wrap;
+    }
+    .twitt_icon_text {
+        max-width: initial;
+        margin-right: 137px;
+    }
+    .twitt_red {
+        width: 100%;
+    }
+    .twitt_blu_red {
+        right: -65%;
+        top: -17%;
+    }
+}
+
+@media (max-width: 566px) {
+    .header_wrapp_img_h1,
+    .header_wrapp_img_h2,
+    .finance_text_1,
+    .finance_text_2,
+    .nation_pass_tittle,
+    .NFT_design_info_title_up,
+    .NFT_design_info_title_bot {
+        font-size: 80px;
+        line-height: 100px;
+    }
+    .header_img {
+        max-width: 100%;
+    }
+    .header_wrapp_centr {
+        left: -50%;
+    }
+    .section_2 {
+        background-position: 3% 81%;
+    }
+    .nation_pass_tittle {
+        width: auto;
+    }
+    .section_1_hum_blu_img {
+        max-width: 238px;
+    }
+    .section_1_info_text_2 {
+        font-size: 26px;
+        line-height: 42px;
+    }
+    .nation_pass {
+        display: block;
+    }
+    .nation_pass_text {
+        max-width: 100%;
+    }
+    .nation_pass_text {
+        max-width: 100%;
+        margin-bottom: 60px;
+    }
+    .nation_pass_pic img {
+        max-width: 100%;
+    }
+    .NFT_design_icon,
+    .NFT_design_icon img {
+        max-width: 100%;
+    }
+    .twitt_blu_red{
+        right: -42%;
+        top: -15%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .header,
+    .menu {
+        padding: 0;
+    }
+    .header_wrapp {
+        max-width: 480px;
+        padding: 0 24px;
+        background-image: url('/img/svg/Humans.svg');
+        background-size: 411px 316px;
+        background-repeat: no-repeat;
+        background-position: -36px 62%;
+    }
+    .header_wrapp_mobile_def {
+        position: absolute;
+        opacity: 0;
+        transition: opacity .4s linear;
+    }
+    .header_wrapp_mobile_act {
+        width: 100%;
+        z-index: 10;
+        opacity: 1;
+        background: black;
+        top: 137px;
+        left: 0;
+        transition: opacity .4s linear;
+    }
+    .close_act {
+        display: block;
+    }
+    .header_wrapp_mobile_def .seti_header {
+        display: none;
+    } 
+    .header_wrapp_mobile_act .seti_header {
+        display: block;
+    }
+    .header_wrapp_centr {
+        top: -14px;
+        left: -20%;
+        z-index: -1;
+    }
+    .header_wrapp_centr img {
+        width: 500px;
+    }   
+    .heder_left_nav,
+    .header_right_price_twitt {
+        display: none;
+    }
+    .header_wrapp_mobile_act .heder_left_nav{
+        margin: 0;
+        max-width: 100%;
+        padding: 154px 21% 191px 21%;
+        display: block;
+    }
+    .header_wrapp_mobile_act .heder_left_nav_li {
+        width: 100%;
+        padding-right: 0;
+        text-align: center;
+        font-family: 'Play Bold';
+        font-size: 48px;
+        line-height: 56px;
+    }
+    .header_wrapp_mobile_act .heder_left_nav_li:not(:last-child) {
+        margin-bottom: 32px;
+    }
+    .header_wrapp_mobile_act .heder_left_nav_li:first-child .heder_left_nav_li_link {
+        border-bottom: 3px solid #FF2020;
+    }
+    .seti_header {
+        padding-bottom: 31px;
+    } 
+    .header_right{
+        max-width: 100%;
+        order: 3;
+    }
+    .header_right_price {
+        max-width: 100%;
+    }
+    .header_left_logo{
+        margin-top: 22px;
+    }
+    .header_left_logo img {
+        width: 136px;
+    }
+    .header_right_mobile {
+        margin-top: 21px;
+        align-items: center;
+        display: flex;
+        order: 2;
+    }
+    .header_right_price_twitt_text_mobile {
+        margin-right: 10px;
+        padding: 9px;
+        font-size: 0;
+        width: 40px;
+        height: 40px;
+        border: 1px solid white;
+        border-radius: 20px;
+    }
+    .header_right_burger {
+        padding: 15px 10px;
+        width: 40px;
+        height: 40px;
+        font-size: 0;
+        border: 1px solid white;
+        border-radius: 20px;
+    }
+    .header_right_burger_act {
+        padding: 12px;
+    }
+    .header_right_burger_act img:first-child {
+        display: none;
+    }
+    .header_right_price_ul{
+        max-width: 100%;
+        margin-top: 22px;
+        flex-wrap: nowrap;
+    }
+    .header_right_price_li {
+        max-width: 39%;
+        padding: 7px 9px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    } 
+    .header_right_price_li:not(:last-child) {
+        margin-right: 5px;
+    }
+    .header_right_price_li:last-child {
+        margin-right: 0;
+    }
+    .header_right_price_text_1 {
+        padding: 0;
+    }
+    .header_img {
+        padding: 0;
+        width: 100%;
+        order: 4;
+    }
+    .header_wrapp_img_text {
+        padding: 0 34px;
+        text-align: center;
+        order: 5;
+    }
+    .header_wrapp_img {
+        padding: 0;
+        padding-top: 234px;
+        width: auto;
+        height: auto;
+        background: none;
+    }
+    .header_wrapp_img_title {
+        margin-bottom: 14px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .header_wrapp_img_h1,
+    .header_wrapp_img_h2 {
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 56px;
+    }
+    .wrapp {
+        max-width: 480px;
+        padding: 0 15px;
+        margin-bottom: 76px;
+    }
+    .section_1_hum_blu img {
+        max-width: 395px;
+        position: absolute;
+        top: 602px;
+        left: -114px;
+    }
+    .section_1_info {
+        padding: 0;
+    }
+    .section_1_info_text {
+        padding: 198px 8px 0 51%;
+    }
+    .section_1_info_but {
+        padding: 12px 32px;
+        border: none;
+        margin-left: 0;
+        text-transform: uppercase;
+    }
+    .section_1_info a {
+        display: flex;
+        width: 100%;
+        padding-top: 7px;
+        justify-content: center;
+    }
+    .section_1_info_text_1 {
+        margin-bottom: 22px;
+        padding-top: 36px;
+        height: 50px;
+    }
+    .section_1_info_text_2 {
+        min-width: 1px;
+        padding-left: 0;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .wrapp_2 {
+        max-width: 480px;
+        padding: 0 15px;
+    }
+    .section_2 {
+        background-position: -15px 154px;
+    }
+    .roadmap_text{
+        max-width: 100%;
+    }
+    .roadmap-text-1 {
+        margin-bottom: 16px;
+        text-align: center;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 56px;
+    }
+    .roadmap-text-2 {
+        text-align: center;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .section_2_stage_1_title {
+        padding-bottom: 16px;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .section_2_stage_1_text {
+        padding-bottom: 29px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .section_2_stage_5_text {
+        padding-right: 0;
+    }
+    .section_2_stage_wrap_text {
+        width: 100%;
+        padding-left: 57px;
+    }
+    .finance {
+        margin-top: 63px;
+    }
+    .finance_title {
+        text-align: center;
+        width: 100%;
+        order: 1;
+    }
+    .finance_text_1,
+    .finance_text_2 {
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 56px;
+    }
+    .finance_img_blu {
+        margin-bottom: 82px;
+        max-width: 71%;
+        order: 2;
+    }
+    .finance_img_red {
+        max-width: 88%;
+        order: 3;
+    }
+    .finance_info {
+        width: 100%;
+        left: 20%;
+    }
+    .finance_info_text_1 {
+        position: absolute;
+        top: -503px;
+        left: -29px;
+        text-align: center;
+    }
+    .finance_info_text_2 {
+        max-width: 95%;
+        text-align: center;
+        position: absolute;
+        bottom: -175px;
+        left: -18%;
+    }
+    .finance_info_text_1_text{
+        padding-top: 16px;
+    }
+    .finance_info_text_1_title,
+    .finance_info_text_2_title {
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .finance_info_text_1_text,
+    .finance_info_text_2_text {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .finance_info_text_2_text {
+        width: 100%;
+        padding-top: 14px;
+    }
+    .wrapp_3 {
+        max-width: 480px;
+        padding: 0 25px 0 30px;
+        padding-top: 126px;
+    }
+    .tablo {
+        margin-bottom: 357px;
+        width: auto;
+        padding: 10px;
+    }
+    .tablo_info {
+        padding: 21px 11px 0 11px;
+        text-align: center;
+    }
+    .tablo_info_title {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .tablo_info_lini,
+    .tablo_info_lini_2 {
+        width: auto;
+    }
+    .tablo_info_lini_2{
+        margin-bottom: 9px;
+    }
+    .tablo_info_anketa_up:first-child .tablo_info_anleta_text_2,
+    .tablo_info_anketa_up:first-child .tablo_info_anleta_text_2 + span {
+        display: none;
+    }
+    .tablo_info_anketa_up {
+        flex-wrap: nowrap;
+    }
+    .tablo_info_anketa_up:first-child {
+        padding-bottom: 17px;
+    }
+    .tablo_info_anleta_lin_ADDRESS{
+        width: 153px;
+    }
+    .tablo_info_anleta_text_2 {
+        padding-left: 0;
+    }
+    .anketa_logo {
+        width: 50px;
+        height: 56px;
+        top: -14px;
+        left: 12px;
+    }
+    .tablo_info_anketa_bot {
+        padding: 19px 11px 34px 11px;
+    }
+    .tablo_info_anketa_bot_text {
+        font-weight: 400;
+        font-size: 26px;
+        line-height: 38px;
+    }
+    .bot_text_1 {
+        padding-left: 81px;
+    }
+    .bot_text_2 {
+        padding-left: 35px;
+    }
+    .bot_text_3 {
+        padding-left: 35px;
+    }
+    .bot_text_4 {
+        padding-left: 0;
+    }
+    .bot_text_5{
+        padding-left: 12px;
+    }
+    .bot_text_6{
+        padding-left: 35px;
+    }
+    .bot_text_7 {
+        padding-left: 12px;
+    }
+    .bot_text_8 {
+        padding-left: 0;
+    }
+    .bot_text_9 {
+        padding-left: 70px;
+    }
+    .bot_text_10 {
+        padding-left: 0;
+    }
+    .bot_text_11 {
+        padding-left: 24px;
+    }
+    .bot_text_12 {
+        padding-left: 0;
+    }
+    .bot_text_13 {
+        padding-left: 35px;
+    }
+    .bot_text_14 {
+        padding-left: 12px;
+    }
+    .padding {
+        display: inline-block;
+        font-size: 0;
+        width: 35px;
+        height: 5px;
+    }
+    .tablo_alximic {
+        right: -139px;
+        top: -445px;   
+    }
+    .tablo_bog {
+        left: 12px;
+        bottom: -397px;
+        width: 435px;
+    }
+    .nation_pass {
+        margin-bottom: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+    }
+    .nation_pass_1 {
+        margin-bottom: 10px;
+    }
+    .NTF {
+        margin-bottom: 92px;
+    }
+    .nation_pass_text {
+        order: 2;
+    }
+    .nation_pass_pic img {
+        margin-bottom: 17px;
+        max-width: 97%;
+    }
+    .nation_pass_tittle {
+        max-width: 100%;
+        padding-bottom: 25px;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 56px;
+    }
+
+    .nation_pass_text {
+        max-width: 100%;
+        text-align: center;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .nation_pass_text p {
+        padding: 0 10px;
+    }
+    .wrapp_4 {
+        margin-left: 0;
+    }
+    .NTF_text {
+        width: auto;
+        padding: 0;
+        padding-left: 9px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .wrapp_4 img {
+        margin-bottom: 44px;
+    }
+    .nation_pass_prozent {
+        justify-content: space-around;
+    }
+    .nation_pass_prozent_li {
+        padding: 26px;
+        text-align: center;
+    }
+    .nation_pass_prozent_li:last-child {
+        padding-right: 26px;
+    }
+    .nation_pass_prozent_li_up {
+        margin-bottom: 2px;
+    }
+    .NFT_design {
+        max-width: 480px;
+        padding: 0 15px;
+    }
+    .NFT_design_wrapp{
+        margin-bottom: 402px;
+        width: 100%;
+        padding: 0 15px;
+    }
+    .NFT_design_icon {
+        max-width: 100%;
+        margin-bottom: 18px;
+    }
+    .NFT_design_icon img {
+        max-width: 99%;
+    }
+    .NFT_design_pick {
+        margin-bottom: 29px;
+        position: static;
+        max-width: 140px;
+        align-self: center  ;
+    }
+    .NFT_design_info {
+        width: auto;
+        padding-left: 0;
+    }
+    .NFT_design_info_title_up,
+    .NFT_design_info_title_bot {
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 56px;
+        text-align: center;
+    }
+    .NFT_design_info_title_bot{
+        margin-bottom: 30px;
+    }
+    .NFT_design_info_title {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+    .NFT_design_info_text {
+        padding: 0 15px;
+        text-align: center;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .twitt_icon {
+        margin-bottom: 63px;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .twitt_blu_red{
+        max-width: 342px;
+        top: -578px;
+        left: -26px;
+    }
+    .twitt_text {
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 56px;
+        text-align: center;
+    }
+    .twitt_icon_text {
+        margin-bottom: 31px;
+        text-align: center;
+        margin-right: 0;
+        width: 100%;
+    }
+    .twitt_icon_text img {
+        margin-bottom: 11px;
+    }
+    .twitt_red{
+        margin: 0 9px;
+        width: 100%;
+        height: 524px;
+        border-radius: 8px;
+    }
+    .footer_block {
+        margin-bottom: 49px;
+        flex-direction: column;
+        align-content: center;
+    }
+    .logo_footer {
+        margin-bottom: 30px;
+        padding-left: 8%;
+    }
+    .logo_footer img {
+        max-width: 143px;
+    }
+    .seti {
+        text-align: center;
+    }
+    .seti_text {
+        padding-top: 33px;
+    }  
+}
